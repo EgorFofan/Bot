@@ -6,3 +6,5 @@ if a == 2:
 else:
     print("ошибка!")
 #это новый проект
+#modify
+#modify
