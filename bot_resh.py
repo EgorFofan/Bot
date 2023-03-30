@@ -3,4 +3,8 @@ a = input()
 print(a)
 b = input(len())
 print(b)
+if a == 2:
+    print("успех!")
+else:
+    print("ошибка!")
 #это новый проект
